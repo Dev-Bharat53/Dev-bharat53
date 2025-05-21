@@ -1,4 +1,19 @@
-<h1 align="center">Hi 👋, I'm BHARAT KUSHWAHA</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BHARAT WEB Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+                <div class="animated-text" >
+        <h1>I'm a_</h1> <span></span></div>
+
+</body>
+
+</html>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-bharat53&label=Profile%20views&color=0e75b6&style=flat" alt="dev-bharat53" /> </p>
