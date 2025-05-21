@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev-bharat53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev-bharat53" height="30" width="40" /></a>
 <a href="https://twitter.com/@codesbharat95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@codesbharat95" height="30" width="40" /></a>
 <a href="https://instagram.com/dev._bharat93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev._bharat93" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@bharatcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bharatcode" height="30" width="40" /></a>
