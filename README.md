@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript,Python,Css**
 
-- 👨‍💻 All of my projects are available at [https://dev-bharat53.github.io/WEBSITE/](https://dev-bharat53.github.io/WEBSITE/)
+- 👨‍💻 My website [https://dev-bharat53.github.io/WEBSITE/](https://dev-bharat53.github.io/WEBSITE/)
 
 - 📫 How to reach me **gamexpert602@gmail.com**
 
