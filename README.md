@@ -9,7 +9,7 @@
 
 - 👨‍💻 My website [https://dev-bharat53.github.io/WEBSITE/](https://dev-bharat53.github.io/WEBSITE/)
 
-- 📫 How to reach me **gamexpert602@gmail.com**
+- 📫 How to reach me **dev.bharatcode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
